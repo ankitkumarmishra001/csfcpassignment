@@ -7,6 +7,7 @@ This is a mini-project developed for the Computer Science Fundamentals & Career 
 This application is a simple, command-line calculator that performs the four basic arithmetic operations.It was developed using Visual Studio Code (VS Code) and managed using Git and hosted on GitHub to practice version control and professional documentation standards.
 
 ✨ Features
+
 The Simple Console Calculator provides a menu-driven interface and supports the following operations:
 
 Addition (+)
@@ -15,6 +16,7 @@ Multiplication (*)
 Division (/)
 
 💻 Installation and Usage
+
 To run this calculator locally, follow the steps below.
 
 Prerequisites
@@ -32,6 +34,7 @@ Follow Prompts: The application will display a menu. Enter the corresponding num
 Enter Numbers: Enter the first and second numbers when prompted. The result will be displayed immediately.
 
 ⚙️ Repository Structure
+
 The project includes a clean, standard structure for development:
 
 .gitignore: Excludes temporary files like __pycache__ and .vscode/ settings files.

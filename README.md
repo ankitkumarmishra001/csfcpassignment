@@ -1,5 +1,7 @@
 Simple Console Calculator
+
 Project Overview
+
 This is a mini-project developed for the Computer Science Fundamentals & Career Pathways (CSFCP) - Assignment 04 at K.R. [cite_start]Mangalam University[cite: 1, 2].
 
 This application is a simple, command-line calculator that performs the four basic arithmetic operations.It was developed using Visual Studio Code (VS Code) and managed using Git and hosted on GitHub to practice version control and professional documentation standards.
@@ -11,6 +13,7 @@ Addition (+)
 Subtraction (-)
 Multiplication (*)
 Division (/)
+
 💻 Installation and Usage
 To run this calculator locally, follow the steps below.
 
@@ -27,6 +30,7 @@ Execute the Script: Run the calculator using the Python interpreter:
 python calculator.py
 Follow Prompts: The application will display a menu. Enter the corresponding number (1-4) for the operation you wish to perform, or 5 to exit.
 Enter Numbers: Enter the first and second numbers when prompted. The result will be displayed immediately.
+
 ⚙️ Repository Structure
 The project includes a clean, standard structure for development:
 
